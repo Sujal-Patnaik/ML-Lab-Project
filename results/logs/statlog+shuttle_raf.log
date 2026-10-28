@@ -1,0 +1,6 @@
+done  statlog+shuttle              RaF          acc=0.9999 fit=72.3s nodes=99
+done  statlog+shuttle              MPRaF-T      acc=0.9994 fit=188.4s nodes=295
+done  statlog+shuttle              MPRaF-P      acc=0.9999 fit=92.0s nodes=117
+done  statlog+shuttle              MPRaF-N      acc=0.9997 fit=151.1s nodes=299
+done  statlog+shuttle              RaF-PCA      acc=0.9997 fit=158.4s nodes=123
+done  statlog+shuttle              RaF-LDA      acc=0.9997 fit=129.8s nodes=110

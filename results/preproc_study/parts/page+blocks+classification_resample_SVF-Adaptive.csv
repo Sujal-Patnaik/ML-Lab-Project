@@ -1,0 +1,2 @@
+dataset,model,variant,accuracy,balanced_accuracy,macro_f1,min_recall,fit_seconds,mean_nodes,n_train,n_train_fit,n_test,seed
+page+blocks+classification,SVF-Adaptive,resample,0.9658952496954933,0.9362787129951309,0.8483353531554497,0.8285714285714286,605.879,269.32,3831,16764,1642,0

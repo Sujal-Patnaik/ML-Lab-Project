@@ -1,0 +1,2 @@
+dataset,model,accuracy,fit_seconds,mean_nodes,n_train,n_test,seed
+page+blocks+classification,SVF-Adaptive,0.9713763702801461,94.501,244.28,3831,1642,0

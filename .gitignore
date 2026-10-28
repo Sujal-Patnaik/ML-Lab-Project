@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# editor / tool folders
+.claude/
+.vscode/
+.idea/
+
+# Windows download markers
+*:Zone.Identifier
+
+# LaTeX build files (only the .tex source is kept)
+slides/*.aux
+slides/*.log
+slides/*.nav
+slides/*.out
+slides/*.snm
+slides/*.toc
+slides/*.vrb
+slides/*.pdf

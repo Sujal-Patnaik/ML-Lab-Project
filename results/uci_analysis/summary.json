@@ -1,0 +1,43 @@
+{
+  "avg_ranks": {
+    "DRaF": 7.0,
+    "DRaF-LDA": 6.166666666666667,
+    "DRaF-PCA": 6.0,
+    "MPDRaF-N": 7.0,
+    "MPDRaF-P": 5.333333333333333,
+    "MPDRaF-T": 9.5,
+    "MPRaF-N": 8.333333333333334,
+    "MPRaF-P": 6.666666666666667,
+    "MPRaF-T": 9.0,
+    "RaF": 6.0,
+    "RaF-LDA": 6.5,
+    "RaF-PCA": 7.5,
+    "SVF-Adaptive": 6.0
+  },
+  "chi2": 3.7802197802197752,
+  "p_friedman": 0.9870835969574033,
+  "F_F": 0.23465211459754398,
+  "p_iman": 0.9940511939049385,
+  "cd": 10.533837360813923,
+  "significant": [],
+  "datasets": [
+    "magic+gamma+telescope",
+    "page+blocks+classification",
+    "statlog+shuttle"
+  ],
+  "models": [
+    "DRaF",
+    "DRaF-LDA",
+    "DRaF-PCA",
+    "MPDRaF-N",
+    "MPDRaF-P",
+    "MPDRaF-T",
+    "MPRaF-N",
+    "MPRaF-P",
+    "MPRaF-T",
+    "RaF",
+    "RaF-LDA",
+    "RaF-PCA",
+    "SVF-Adaptive"
+  ]
+}

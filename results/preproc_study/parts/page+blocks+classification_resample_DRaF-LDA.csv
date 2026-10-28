@@ -1,0 +1,2 @@
+dataset,model,variant,accuracy,balanced_accuracy,macro_f1,min_recall,fit_seconds,mean_nodes,n_train,n_train_fit,n_test,seed
+page+blocks+classification,DRaF-LDA,resample,0.9652862362971986,0.9341650058067967,0.8587597506556957,0.8571428571428571,334.943,315.0,3831,16764,1642,0

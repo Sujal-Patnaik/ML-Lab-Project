@@ -1,0 +1,44 @@
+{
+  "avg_ranks": {
+    "DRaF": 5.375,
+    "DRaF-LDA": 5.375,
+    "DRaF-PCA": 5.625,
+    "MPDRaF-N": 6.75,
+    "MPDRaF-P": 8.375,
+    "MPDRaF-T": 6.375,
+    "MPRaF-N": 10.0,
+    "MPRaF-P": 8.375,
+    "MPRaF-T": 8.5,
+    "RaF": 7.25,
+    "RaF-LDA": 5.625,
+    "RaF-PCA": 8.875,
+    "SVF-Adaptive": 4.5
+  },
+  "chi2": 9.065934065934066,
+  "p_friedman": 0.6972887048333551,
+  "F_F": 0.6985605419136325,
+  "p_iman": 0.7420978521600007,
+  "cd": 9.122570753798485,
+  "significant": [],
+  "datasets": [
+    "breast_cancer",
+    "digits",
+    "iris",
+    "wine"
+  ],
+  "models": [
+    "DRaF",
+    "DRaF-LDA",
+    "DRaF-PCA",
+    "MPDRaF-N",
+    "MPDRaF-P",
+    "MPDRaF-T",
+    "MPRaF-N",
+    "MPRaF-P",
+    "MPRaF-T",
+    "RaF",
+    "RaF-LDA",
+    "RaF-PCA",
+    "SVF-Adaptive"
+  ]
+}

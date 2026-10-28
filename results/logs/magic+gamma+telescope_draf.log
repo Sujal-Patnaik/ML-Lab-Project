@@ -1,0 +1,6 @@
+done  magic+gamma+telescope        DRaF         acc=0.8843 fit=390.4s nodes=3589
+done  magic+gamma+telescope        MPDRaF-T     acc=0.8773 fit=78.2s nodes=6262
+done  magic+gamma+telescope        MPDRaF-P     acc=0.8775 fit=81.4s nodes=4859
+done  magic+gamma+telescope        MPDRaF-N     acc=0.8817 fit=71.9s nodes=6285
+done  magic+gamma+telescope        DRaF-PCA     acc=0.8901 fit=260.8s nodes=3414
+done  magic+gamma+telescope        DRaF-LDA     acc=0.8850 fit=198.4s nodes=3110

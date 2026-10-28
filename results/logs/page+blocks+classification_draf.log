@@ -1,0 +1,6 @@
+done  page+blocks+classification   DRaF         acc=0.9695 fit=42.0s nodes=298
+done  page+blocks+classification   MPDRaF-T     acc=0.9744 fit=21.5s nodes=465
+done  page+blocks+classification   MPDRaF-P     acc=0.9750 fit=32.6s nodes=317
+done  page+blocks+classification   MPDRaF-N     acc=0.9750 fit=20.5s nodes=460
+done  page+blocks+classification   DRaF-PCA     acc=0.9720 fit=110.5s nodes=271
+done  page+blocks+classification   DRaF-LDA     acc=0.9738 fit=95.4s nodes=260

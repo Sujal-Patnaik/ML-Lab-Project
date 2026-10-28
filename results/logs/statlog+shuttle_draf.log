@@ -1,0 +1,6 @@
+done  statlog+shuttle              DRaF         acc=0.9999 fit=70.1s nodes=110
+done  statlog+shuttle              MPDRaF-T     acc=0.9996 fit=187.6s nodes=338
+done  statlog+shuttle              MPDRaF-P     acc=0.9999 fit=97.0s nodes=131
+done  statlog+shuttle              MPDRaF-N     acc=0.9997 fit=155.9s nodes=356
+done  statlog+shuttle              DRaF-PCA     acc=0.9999 fit=173.6s nodes=137
+done  statlog+shuttle              DRaF-LDA     acc=0.9999 fit=134.5s nodes=130

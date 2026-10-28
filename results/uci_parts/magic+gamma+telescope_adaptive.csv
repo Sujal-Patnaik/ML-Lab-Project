@@ -1,0 +1,2 @@
+dataset,model,accuracy,fit_seconds,mean_nodes,n_train,n_test,seed
+magic+gamma+telescope,SVF-Adaptive,0.8876621100595864,490.09,2967.12,13314,5706,0

@@ -1,0 +1,2 @@
+dataset,model,variant,accuracy,balanced_accuracy,macro_f1,min_recall,fit_seconds,mean_nodes,n_train,n_train_fit,n_test,seed
+page+blocks+classification,MPDRaF-P,baseline,0.9750304506699148,0.8490483480035719,0.8670575446602546,0.75,43.398,317.48,3831,3831,1642,0

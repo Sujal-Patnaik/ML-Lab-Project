@@ -1,0 +1,2 @@
+dataset,model,variant,accuracy,balanced_accuracy,macro_f1,min_recall,fit_seconds,mean_nodes,n_train,n_train_fit,n_test,seed
+magic+gamma+telescope,RaF-PCA,pca,0.8275499474237644,0.7890850421707849,0.8012399880206708,0.6595214356929212,383.202,2786.64,13314,13314,5706,0

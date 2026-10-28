@@ -1,0 +1,7 @@
+dataset,model,accuracy,fit_seconds,mean_nodes,n_train,n_test,seed
+page+blocks+classification,DRaF,0.9695493300852619,41.988,298.24,3831,1642,0
+page+blocks+classification,MPDRaF-T,0.97442143727162,21.535,465.32,3831,1642,0
+page+blocks+classification,MPDRaF-P,0.9750304506699148,32.579,317.48,3831,1642,0
+page+blocks+classification,MPDRaF-N,0.9750304506699148,20.518,459.6,3831,1642,0
+page+blocks+classification,DRaF-PCA,0.9719853836784409,110.504,271.24,3831,1642,0
+page+blocks+classification,DRaF-LDA,0.9738124238733252,95.422,260.08,3831,1642,0

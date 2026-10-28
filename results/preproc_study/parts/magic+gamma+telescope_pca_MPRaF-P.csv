@@ -1,0 +1,2 @@
+dataset,model,variant,accuracy,balanced_accuracy,macro_f1,min_recall,fit_seconds,mean_nodes,n_train,n_train_fit,n_test,seed
+magic+gamma+telescope,MPRaF-P,pca,0.8294777427269541,0.7886315378189754,0.8021390391483615,0.6510468594217348,99.587,3759.68,13314,13314,5706,0

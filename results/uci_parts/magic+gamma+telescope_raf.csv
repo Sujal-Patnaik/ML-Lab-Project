@@ -1,0 +1,7 @@
+dataset,model,accuracy,fit_seconds,mean_nodes,n_train,n_test,seed
+magic+gamma+telescope,RaF,0.8818787241500176,297.761,2439.6,13314,5706,0
+magic+gamma+telescope,MPRaF-T,0.8755695758850333,60.399,4119.88,13314,5706,0
+magic+gamma+telescope,MPRaF-P,0.8787241500175255,69.855,3213.68,13314,5706,0
+magic+gamma+telescope,MPRaF-N,0.8764458464773922,63.438,4127.12,13314,5706,0
+magic+gamma+telescope,RaF-PCA,0.8885383806519453,245.687,2327.2,13314,5706,0
+magic+gamma+telescope,RaF-LDA,0.883981773571679,157.967,2118.0,13314,5706,0

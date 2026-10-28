@@ -1,0 +1,2 @@
+dataset,model,variant,accuracy,balanced_accuracy,macro_f1,min_recall,fit_seconds,mean_nodes,n_train,n_train_fit,n_test,seed
+page+blocks+classification,DRaF-PCA,baseline,0.9719853836784409,0.8028887116200549,0.8334027867800173,0.625,128.313,271.24,3831,3831,1642,0

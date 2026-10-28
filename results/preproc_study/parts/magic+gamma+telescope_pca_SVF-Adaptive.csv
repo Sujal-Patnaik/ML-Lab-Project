@@ -1,0 +1,2 @@
+dataset,model,variant,accuracy,balanced_accuracy,macro_f1,min_recall,fit_seconds,mean_nodes,n_train,n_train_fit,n_test,seed
+magic+gamma+telescope,SVF-Adaptive,pca,0.8305292674377848,0.7957187895772143,0.8063294654113228,0.6784646061814557,837.754,3639.6,13314,13314,5706,0

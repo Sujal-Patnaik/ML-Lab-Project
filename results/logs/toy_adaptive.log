@@ -1,0 +1,4 @@
+done  iris                         SVF-Adaptive acc=1.0000 fit=0.5s nodes=17
+done  wine                         SVF-Adaptive acc=1.0000 fit=1.4s nodes=21
+done  breast_cancer                SVF-Adaptive acc=0.9649 fit=5.1s nodes=27
+done  digits                       SVF-Adaptive acc=0.9722 fit=71.6s nodes=303
